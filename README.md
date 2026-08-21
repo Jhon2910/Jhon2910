@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Jhon2910/Jhon2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jonathan.
 
-Here are some ideas to get you started:
+🎓 Estudante de Sistemas de Informação  
+💻 Interessado em Desenvolvimento e Tecnologia  
+🚀 Atualmente estudando Java, Python, SQL e Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
