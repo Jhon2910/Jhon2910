@@ -4,7 +4,7 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -14,6 +14,10 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 
 ---
 
+## 📊 Estatísticas do GitHub
+<p>
+<img src="https://komarev.com/ghpvc/?username=Jhon2910&color=blue" />
+<p>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical" />
 </p>
