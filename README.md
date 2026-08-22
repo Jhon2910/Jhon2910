@@ -1,67 +1,34 @@
-# Hi there! 👋
+# Olá, eu sou o Jonathan! 👋
 
-Meu nome é Jonathan.
+Estudante de desenvolvimento, focado em criar soluções eficientes e aprender novas tecnologias.
 
-Estudante de Sistemas de Informação  
-Interessado em Desenvolvimento e Tecnologia  
-Atualmente estudando Java, Python, SQL e Web
+---
 
-## Acesse meu Site 🌐 : https://jhon2910.github.io/html-css-Javascript/
+## 💻 Tecnologias e Ferramentas
 
-## GitHub Stats
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Jhon2910&show_icons=true&theme=dark)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jhon2910&theme=dark)
+## 📊 Estatísticas do GitHub
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" />
+</p>
 
+---
 
-<h2>My Favorite Tools and Technologies</h2>
+## 📫 Onde me encontrar
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>
-      Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
-      Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
-      MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
-      HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
-      CSS3
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
-    JavaScript
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>
-    Git
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
-    GitHub
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/><br>
-    IntelliJ IDEA
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>
-    VS Code
-  </td>
-</tr>
-
+* LinkedIn: [Seu Perfil](https://linkedin.com)
+* E-mail: seu_email@exemplo.com
