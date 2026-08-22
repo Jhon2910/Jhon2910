@@ -13,9 +13,15 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
+
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical" />
 </p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<p>
+  
 ---
 
 ##  Onde me encontrar
