@@ -1,4 +1,4 @@
-[# Hi there! 👋
+# Hi there! 👋
 
 Meu nome é Jonathan.
 
@@ -6,7 +6,7 @@ Estudante de Sistemas de Informação
 Interessado em Desenvolvimento e Tecnologia  
 Atualmente estudando Java, Python, SQL e Web
 
-##Acesse meu Site : https://jhon2910.github.io/html-css-Javascript/
+## Acesse meu Site : https://jhon2910.github.io/html-css-Javascript/
 
 ## GitHub Stats
 
