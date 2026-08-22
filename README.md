@@ -1,10 +1,10 @@
-# Olá, eu sou o Jonathan! 👋
+# Olá, eu sou o Jonathan! 
 
 Estudante de desenvolvimento, focado em criar soluções eficientes e aprender novas tecnologias.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,7 +28,7 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 
 ---
 
-## 📫 Onde me encontrar
+##  Onde me encontrar
 
 * LinkedIn: [Jonathan Rodrigues](https://www.linkedin.com/in/jonathan-rodrigues-18536a340)
 * E-mail: jonathanalexandre2910@gmail.com
