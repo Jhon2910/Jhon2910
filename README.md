@@ -14,7 +14,7 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 
 ---
 
-## https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical](https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical
+## https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical
 
 ---
 
