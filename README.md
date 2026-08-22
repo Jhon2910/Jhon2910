@@ -14,6 +14,10 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 
 ---
 
+[https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical](https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical)
+
+---
+
 ##  Onde me encontrar
 
 * LinkedIn: [Jonathan Rodrigues](https://www.linkedin.com/in/jonathan-rodrigues-18536a340)
