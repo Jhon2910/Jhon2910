@@ -17,18 +17,18 @@ Estudante de desenvolvimento, focado em criar soluções eficientes e aprender n
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhon2910&show_icons=true&theme=radical" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhon2910&theme=radical" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Onde me encontrar
 
-* LinkedIn: [Seu Perfil](https://linkedin.com)
-* E-mail: seu_email@exemplo.com
+* LinkedIn: [Jonathan Rodrigues](https://www.linkedin.com/in/jonathan-rodrigues-18536a340)
+* E-mail: jonathanalexandre2910@gmail.com
