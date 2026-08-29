@@ -45,7 +45,7 @@ Confira meus principais projetos e trajetórias diretamente no meu site pessoal:
 </p>
 
 ### 📈 Gráfico de Atividades
-```xml
+
 <p align="center">
   <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical](https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical)" />
 </p>
