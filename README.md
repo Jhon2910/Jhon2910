@@ -40,8 +40,8 @@ Meus projetos e trajetória estão reunidos aqui:
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhon2910&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Jhon2910&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Meus projetos e trajetória estão reunidos aqui:
 ### 📈 Gráfico de atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=redical&hide_border=true" alt="Gráfico de atividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=react-dark&hide_border=true" alt="Gráfico de atividades" />
 </p>
 
 ---
