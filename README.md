@@ -36,25 +36,26 @@ Confira meus principais projetos e trajetórias diretamente no meu site pessoal:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=Jhon2910&color=007ecc&style=flat-square](https://komarev.com/ghpvc/?username=Jhon2910&color=007ecc&style=flat-square)" alt="Visitas ao Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Jhon2910&color=007ecc&style=flat-square" alt="Visitas ao Perfil" />
 </p>
 
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats-fast.vercel.app/api?username=Jhon2910&show_icons=true&theme=radical&include_all_commits=true](https://github-readme-stats-fast.vercel.app/api?username=Jhon2910&show_icons=true&theme=radical&include_all_commits=true)" />
-  <img height="180em" src="[https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=radical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=radical)" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Jhon2910&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jhon2910&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Jhon2910&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=Jhon2910&theme=radical)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhon2910&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+  <img src="https://githubusercontent.com" alt="Snake animation" />
 </p>
 
 ---
+
 ### 📈 Gráfico de Atividades
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical](https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhon2910&theme=radical" />
 </p>
